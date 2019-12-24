@@ -1,11 +1,11 @@
 # FUT-Auto
-This is a Python Project to check for players prices in FUTWiz.com and sell then sell them on FUT Web App
+This is a Python Project to check for players prices in FUTWiz.com and sell them on FUT Web App
 
 Before running Download and install Python:
 https://www.python.org/downloads/
 
 Then install the dependencies by going to the command line:
-replace /path/to/ with with the project directory
+replace /path/to/ with the project directory
 pip install -r /path/to/requirements.txt
 
 Download ChromeDriver from https://sites.google.com/a/chromium.org/chromedriver/
