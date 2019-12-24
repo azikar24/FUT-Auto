@@ -25,6 +25,7 @@ then run the script:
     python autoSelling.py
   or
     python SellingOnWebApp.py
+   A chrome page will appear, sign in with your FUT credential, and follow with the command line
     
     
   www.AziKar24.com
