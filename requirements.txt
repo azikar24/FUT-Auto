@@ -1,5 +1,5 @@
 lxml==4.4.2
-requests==2.22.0
+requests==2.31.0
 pandas==0.25.3
 selenium==3.141.0
 chromedriver_binary==79.0.3945.36.0
